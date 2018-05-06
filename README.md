@@ -1,3 +1,6 @@
+Link a la practica: https://lalexvk.github.io/DIU/Agenda.html
+
+
 # DIU18
 Prácticas Diseño Interfaces de Usuario 2017-18 (Agenda cultural)
 
