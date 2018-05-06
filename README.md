@@ -1,4 +1,4 @@
-Link a la practica: https://lalexvk.github.io/DIU/Agenda.html
+Link a la practica: https://lalexvk.github.io/DIU/home.html
 
 
 # DIU18
